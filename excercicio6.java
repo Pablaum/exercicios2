@@ -1,8 +1,5 @@
-import java.net.CacheRequest;
+
 import java.util.Scanner;
-
-import javax.sql.rowset.CachedRowSet;
-
 public class excercicio6 {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
